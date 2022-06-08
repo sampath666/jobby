@@ -1,0 +1,84 @@
+.colors {
+  color: #64748b;
+  color: #4f46e5;
+  color: #272727;
+  color: #f8fafc;
+}
+.log-bg {
+  background-color: #000000;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.log-card {
+  width: 300px;
+  height: 340px;
+  background-color: #272727;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.log-img1 {
+  width: 60px;
+  height: 60px;
+}
+
+.log-p1 {
+  color: #ffffff;
+  font-size: 16px;
+  margin-top: 3px;
+  margin-bottom: 3px;
+}
+
+.log-d1 {
+  margin-bottom: 3px;
+  display: flex;
+  flex-direction: column;
+  margin-top: 3px;
+}
+
+.log-in1 {
+  background-color: transparent;
+  border: #cbd5e1 1px solid;
+  border-radius: 4px;
+  margin-top: 5px;
+  height: 30px;
+  color: #ffffff;
+  padding-left: 10px;
+  outline: none;
+}
+
+.log-d2 {
+  margin-top: 50px;
+  width: 80%;
+}
+
+.log-b1 {
+  background-color: #4f46e5;
+  color: #ffffff;
+  font-weight: bold;
+  width: 100%;
+  border-width: 0px;
+  margin-top: 7px;
+  font-size: 12px;
+  height: 40px;
+  border-radius: 7px;
+  margin-top: 15px;
+  margin-bottom: 0px;
+}
+.log-p2 {
+  color: #ff0b37;
+  font-size: 10px;
+  margin-top: 0px;
+}
+
+@media screen and (min-width: 992px) {
+  .log-card {
+    width: 370px;
+    height: 370px;
+  }
+}

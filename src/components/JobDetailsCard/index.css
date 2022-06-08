@@ -1,0 +1,52 @@
+.jcd-d1 {
+  background-color: #272727;
+  width: max-content;
+  padding: 20px;
+  border-radius: 10px;
+  width: 100%;
+  margin-bottom: 30px;
+}
+.jcd-c1 {
+  display: flex;
+  align-items: center;
+  margin: 15px;
+  margin-left: 30px;
+  margin-right: 30px;
+  width: 200px;
+}
+.jcd-img1 {
+  width: 60px;
+  height: 60px;
+  margin-right: 10px;
+}
+
+.jcd-d2 {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.jcd-p3 {
+  font-size: 27px;
+  font-weight: 500;
+}
+
+.jcd-p4 {
+  font-size: 18px;
+}
+.jcd-p1 {
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.jcd-d3 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.jcd-d4 {
+  width: 55vw;
+  margin-right: 15px;
+}
+.jcd-img2 {
+  width: 40%;
+}

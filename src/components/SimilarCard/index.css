@@ -1,0 +1,12 @@
+.sc-1 {
+  align-self: flex-start;
+}
+
+.sc-d1 {
+  width: 300px;
+  background-color: #272727;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 30px;
+  margin-right: 30px;
+}
